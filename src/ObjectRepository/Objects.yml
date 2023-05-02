@@ -1,0 +1,36 @@
+Home_page: 
+     Import_Menu      : div.icon-open-file
+     DownLoad_Menu    : downloadMenu
+     Save_Button      : saveDirtyAnnotations
+     Add_Note_Button  : addStickyNoteAnnotationButton
+     FreeText_Button  : addFreeTextAnnotationButton
+     Hilight_Button   : addHighlightRectangleAnnotationButton
+     Circle_Button    : addHighlightCircleAnnotationButton
+     Polygone_Button  : addPolygonAnnotationButton
+     Polyline_Button  : addPolylineAnnotationButton
+     Freehand_Button  : addFreehandAnnotationButton
+     Arrow_Button     : addArrowAnnotationButton
+     Stamp_Button     : addStampAnnotationButton
+     Show_Annotation  : showAllAnnotationsButton
+     Refresh_Button   : refreshAnnotation
+     
+ 
+
+# Import_Menu_Page:
+#  Open_File:
+#     Identifier: By
+#     attribute : id
+#     map       : div.icon-open-file
+#   Open_Url :
+# #    - attribute : id
+#    - map       : div.icon-open-url   
+ #  Print_Button:
+#    - attribute : id
+ #   - map       : div.icon-print
+#  Print_All:
+#    - attribute : id
+#    - map       : div.icon-print   
+
+     
+#Download_Menu_Page:
+     
